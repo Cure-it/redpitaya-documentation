@@ -7,6 +7,7 @@ Build & compile instructions
    
     comC
     comStreaming
+    comQtClient
     fpga/fpga.rst
     ecosystem/ecosystem.rst
     debian.rst
